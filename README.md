@@ -1,3 +1,9 @@
+## Cube is hiring! :rocket: :rocket:
+
+Cube is a real-time Financial Planning & Analysis (FP&A) platform from the comfort of your spreadsheet!
+
+Want to join our growing engineering team? Check out our open roles [here](https://jobs.lever.co/cubesoftware/?team=Engineering)!
+
 ## My Operating Manual
 
 Below are some of my core thoughts on managing teams / creating products / building startups / life overall. Inspired by [this post](https://medium.com/@kawomersley/why-and-how-to-share-your-manager-readme-plus-heres-mine-8a4fe188ee1b). This document will change over time as I encounter new situations and come across new experiences.
