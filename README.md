@@ -1,6 +1,6 @@
 ## Cube is hiring! :rocket: :rocket:
 
-Cube is a real-time Financial Planning & Analysis (FP&A) platform from the comfort of your spreadsheet!
+[Cube](https://www.cubesoftware.com/) is a real-time Financial Planning & Analysis (FP&A) platform from the comfort of your spreadsheet!
 
 Want to join our growing engineering team? Check out our open roles [here](https://jobs.lever.co/cubesoftware/?team=Engineering)!
 
