@@ -48,5 +48,5 @@ Simple solutions to problem makes everything easier and less stressful. Onboardi
 ## Other Things I Enjoy
 
 - :coffee: A refreshing cold brew
-- :cocktail: A smooth whiskey
+- :tumbler_glass: A smooth whiskey
 - :runner: A tough workout
